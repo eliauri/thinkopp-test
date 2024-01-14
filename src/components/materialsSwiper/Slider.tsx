@@ -32,6 +32,7 @@ export const Slider = () => {
       <Swiper
         className='materials__slider'
         slidesPerView={'auto'}
+        slidesOffsetBefore={40}
         spaceBetween={0}
         freeMode={true}
         mousewheel={true}
