@@ -1,6 +1,5 @@
 import cn from 'classnames';
 import { IData } from '../../data/mockData';
-import { memo } from 'react';
 
 interface slideProps {
   data: IData;
